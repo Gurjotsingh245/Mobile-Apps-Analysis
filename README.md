@@ -17,3 +17,7 @@ Catalog, finance, and book apps have the lowest ratings on average in the Apple 
 Apps that support a moderate number of languages (10 - 30) tend to have the highest user ratings. Hence, developers dont need to waste money on supporting an excessively large amount of apps. Instead, ensure that all the popular languages are supported.
 
 When I compared app size to user ratings, I found that large app and medium app sizes fared the best, at an average rating of 3.77 and 3.74. Hence, developers should ensure their app size are sufficient enough for all the latest features and options for best ratings. 
+
+Apps with longer descriptions have better user ratings. Customers tend to have a better understanding of the app with longer descriptions, leading to a more informed customer before purchase. This leads to higher customer satisfaction and ratings.
+
+Games and Entertainment genres have highest number of apps, thus immense competition. However, the high number of apps is a reflection of the great demand for these genres. Developers should also seek to enter these genres. 
