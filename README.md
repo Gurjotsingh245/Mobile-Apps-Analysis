@@ -8,7 +8,7 @@ This data analysis projects aims to provide insights into the Apple app store. B
 I used a data source that was split in 2 files, AppleStore.csv and appleStore_description.csv. Both of these files contains 1 tables each. 
 
 ### Findings
-Paid apps have higher ratings than free apps. Customers could precieve paid apps as having more value, thus resulting in them giving paid apps a higher rating. Paid apps might generate higher revenues, leading to developers allocating more recources to them. My recommendation is if a developer feels that their app is high quality, to charge a good price. 
+Paid apps have higher ratings than free apps. Customers could perceive paid apps as having more value, thus resulting in them giving paid apps a higher rating. Paid apps might generate higher revenues, leading to developers allocating more resources to them. My recommendation is if a developer feels that their app is high quality, to charge a good price. 
 
 Customers rated apps that charge between $2 and $4 the highest, at an average rating of 3.86. Hence, developers should strongly consider this price point, as customers perceive it as high value for its money. 
 
